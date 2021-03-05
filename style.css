@@ -1,0 +1,36 @@
+ 
+	
+body
+{
+  text-align:center;
+  Background:linear-gradient(#ebae34 0%,#eb4034 100%);Background-repeat:no=repeat;}
+
+
+img{border-style:solid;border-width:2px;border-color:red;padding:5px;}
+
+
+h1{color:pink;}
+
+#Books{margin-right:1000px;}
+
+
+#Books3{margin-left:850px; margin-bottom:500px;}
+
+.links{float:left;color:#fff;
+Padding-top:5px;
+padding-left:9px;
+Padding-right:9px;
+padding-bottom:5px;
+font-family:fantasy;
+font-size:20px; 
+display:inline;}
+
+.links:hover{background-color:red;}
+
+.menu{ list-style:none;
+font-family:sans-serif;
+position:absolute;
+top:10px;
+right:30px;
+z-index:10;
+cursor:pointer;}
